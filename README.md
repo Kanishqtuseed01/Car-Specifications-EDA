@@ -21,6 +21,9 @@ Car Specifications Dataset from Kaggle
 - Bivariate Analysis
 - Multivariate Analysis
 - Business Insights
+- ## Results
+
+The analysis identified relationships between engine size, horsepower, pricing, and fuel efficiency.
 
 ## Author
 KANISHQ TUSEED
