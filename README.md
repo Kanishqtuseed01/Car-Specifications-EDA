@@ -24,6 +24,11 @@ Car Specifications Dataset from Kaggle
 - ## Results
 
 The analysis identified relationships between engine size, horsepower, pricing, and fuel efficiency.
+## Future Improvements
+
+- Price prediction using machine learning
+- Interactive dashboard
+- EV-specific analysis
 
 ## Author
 KANISHQ TUSEED
